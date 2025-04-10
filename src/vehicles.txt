@@ -1,0 +1,14 @@
+Car,CAR001,Toyota,100,800,Petrol,false
+Car,CAR002,Honda,120,900,Diesel,false
+Car,CAR003,Ford,110,850,Petrol,false
+Car,CAR004,Chevrolet,130,950,Electric,false
+Bike,BIKE001,Yamaha,50,400,Sport,false
+Bike,BIKE002,Honda,45,350,Cruiser,false
+Bike,BIKE003,Kawasaki,55,450,Adventure,false
+Van,VAN001,Mercedes,150,1200,2.5,false
+Van,VAN002,Ford,140,1100,3.0,false
+Van,VAN003,Volkswagen,160,1300,2.8,false
+TravelerCar,TRAV001,Tata,120,1000,5,false
+TravelerCar,TRAV002,Hyundai,130,1100,7,false
+TravelerCar,TRAV003,Kia,125,1050,6,false
+TravelerCar,TRAV004,Renault,115,950,5,false
